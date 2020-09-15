@@ -1,6 +1,3 @@
 second
-<<<<<<< HEAD
-=======
 third
 forth
->>>>>>> temp1
